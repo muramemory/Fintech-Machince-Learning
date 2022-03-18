@@ -2,7 +2,7 @@
 
 ![image_add](Images/credit-risk-analysis-1024x768.webp)  
 
-Welcome to a Machine Learning  demonstration utilising:
+## Welcome to a Machine Learning  demonstration utilising:
 - Naive Random Oversampler and Smote Algorithms
 - Under Sampling using Cluster Centroids Algorithm
 - [Imbalanced-learn](https://imbalanced-learn.org/stable/)

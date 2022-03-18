@@ -1,11 +1,15 @@
 # Fintech-Machince-Learning
+
+![image_add](Images/credit-risk-analysis-1024x768.webp)  
+
 Welcome to a Machine Learning  demonstration utilising:
 - Naive Random Oversampler and Smote Algorithms
 - Under Sampling using Cluster Centroids Algorithm
 - [Imbalanced-learn](https://imbalanced-learn.org/stable/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 
-
+Below is the results of an ensemble classifer to predict  loan risk.
+The second example will bee found in the kernl in the code folder called creddit_risk_resample.
 ## Overview/Example
 
 ### Credit Risk Ensemble    

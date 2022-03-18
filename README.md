@@ -8,7 +8,7 @@ Welcome to a Machine Learning  demonstration utilising:
 
 ## Overview/Example
 
-## Credit Risk Ensemble    
+### Credit Risk Ensemble    
 1. Split Data & Train Y value    
 ![image_add](Images/split_ensemble_data.png)  
 ![image_add](Images/counts_y_values_ensemble.png)  

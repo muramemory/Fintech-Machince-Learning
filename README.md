@@ -2,8 +2,8 @@
 Welcome to a Machine Learning  demonstration utilising:
 - Naive Random Oversampler and Smote Algorithms
 - Under Sampling using Cluster Centroids Algorithm
-- ![Imbalanced-learn](https://imbalanced-learn.org/stable/)
-- ![scikit-learn](https://scikit-learn.org/stable/)
+- [Imbalanced-learn](https://imbalanced-learn.org/stable/)
+- [scikit-learn](https://scikit-learn.org/stable/)
 
 
 ## Overview/Example

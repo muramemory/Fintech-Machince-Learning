@@ -19,16 +19,16 @@ The second example will be found in the kernel in the code folder called [credit
   
 ![image_add](Images/split_ensemble_data.png)  
 ![image_add](Images/counts_y_values_ensemble.png)  
-
-
+  
+  
 2. Balanced Random Forest Classifier    
   
 ![image_add](Images/BRFC_ensemble_results.png)  
-
+  
 3. Easy Ensemble Classifier  
   
 ![image_add](Images/EEC_ensemble_results.png)  
-
+  
 4. Conclusion  
   
 ![image_add](Images/conclusion_ensemble.png)  

@@ -1,6 +1,6 @@
 # Fintech-Machince-Learning
 
-![image_add](Images/credit-risk-analysis-1024x768.webp)  
+![image_add](Images/credit-risk-analysis-1024x768.webp | width=100)  
 
 Welcome to a Machine Learning  demonstration utilising:
 - Naive Random Oversampler and Smote Algorithms

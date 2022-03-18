@@ -1,6 +1,6 @@
 # Fintech-Machince-Learning
 
-![image_add](Images/credit-risk-analysis-1024x768.webp | width=100)  
+![image_add](Images/credit-risk-analysis-1024x768.webp)  
 
 Welcome to a Machine Learning  demonstration utilising:
 - Naive Random Oversampler and Smote Algorithms
@@ -9,7 +9,7 @@ Welcome to a Machine Learning  demonstration utilising:
 - [scikit-learn](https://scikit-learn.org/stable/)
 
 Below is the results of an ensemble classifer to predict  loan risk.
-The second example will bee found in the kernl in the code folder called creddit_risk_resample.
+The second example will bee found in the kernl in the code folder called [credit_risk_resample](https://github.com/muramemory/Fintech-Machine-Learning/blob/main/Code/credit_risk_resampling.ipynb).  
 ## Overview/Example
 
 ### Credit Risk Ensemble    

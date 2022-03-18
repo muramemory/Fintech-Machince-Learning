@@ -9,17 +9,17 @@ Welcome to a Machine Learning  demonstration utilising:
 ## Overview/Example
 
 ## Credit Risk Ensemble    
-1. Split Data & Train Y value  
+1. Split Data & Train Y value    
 ![image_add](Images/split_ensemble_data.png)  
 ![image_add](Images/counts_y_values_ensemble.png)  
 
 
-2. Balanced Random Forest Classifier  
+2. Balanced Random Forest Classifier    
 ![image_add](Images/BRFC_ensemble_results.png)  
 
 3. Easy Ensemble Classifier  
 ![image_add](Images/EEC_ensemble_results.png)  
 
-4. Conclusion
+4. Conclusion  
 ![image_add](Images/conclusion_ensemble.png)  
 
